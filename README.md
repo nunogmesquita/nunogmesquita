@@ -1,7 +1,7 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Nuno Mesquita, a recently transitioned Backend Software Developer with a background Physical Therapy and Project Management.
+My name is Nuno Mesquita, a recently transitioned Backend Software Developer with a background in Physical Therapy and Project Management.
 
 👨‍⚕️ BS in Physical Therapy [@ESS](https://www.ess.ipp.pt/) <br />
 🖥 MindSwap, a 5-month Software Development Bootcamp  [@Mindera Code Academy](https://minderacodeacademy.com/) <br />
